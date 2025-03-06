@@ -19,11 +19,13 @@ This project fetches game deals data from cheapshark-game-deals API, normalizes 
 - **Power BI** (Data visualization)
 
 ## Setup Instructions
-git clone https://github.com/your-username/game-deals-data-pipeline.git
+clone the repo
+
 cd game-deals-data-pipeline
 
 # Install dependencies
 pip install -r requirements.txt
+
 
 
 
