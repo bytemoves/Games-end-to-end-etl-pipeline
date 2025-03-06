@@ -1,4 +1,4 @@
-env
+.env
 venv
 CryptoETLLoad2.0
 neon_db.py
